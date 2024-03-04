@@ -25,10 +25,5 @@ public class TextChange : MonoBehaviour
         _sequence.Append(_text.DOText(_textToChange, _duration));
         _sequence.Append(_text.DOText(_textToAgg, _duration).SetRelative());
         _sequence.Append(_text.DOText(_textTOScramble, _duration, true, ScrambleMode.All));
-
-
-        //_text.DOText(_textToChange,_duration);
-        //_text.DOText(_textToAgg, _duration).SetRelative();
-        //_text.DOText(_textTOScramble, _duration, true, ScrambleMode.All);
     }
 }
