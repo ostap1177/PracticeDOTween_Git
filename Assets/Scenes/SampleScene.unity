@@ -461,7 +461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dcc45f7c3e6e4a1c9b305f9c577dd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _endScale: {x: 0.5, y: 0.5, z: 0.5}
+  _endPoint: {x: 0.5, y: 0.5, z: 0.5}
   _duration: 3
   _loopsCount: -1
 --- !u!114 &477774246
@@ -1096,7 +1096,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0dcc45f7c3e6e4a1c9b305f9c577dd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _endScale: {x: 1.5, y: 1.5, z: 1.5}
+  _endPoint: {x: 1.5, y: 1.5, z: 1.5}
   _duration: 3
   _loopsCount: -1
 --- !u!1 &1999792772
